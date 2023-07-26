@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，若没有密码请前往[网站](https://bitv.cc?code=YT0yJmI9OQ%3D%3D)购买访问密码(10CNY/永久无限制),或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
+      "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，若没有密码请前往[网站](http://www.qqww100.com/)购买访问密码(10CNY/永久无限制),或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
   },
   Auth: {
     Title: "需要密码",
